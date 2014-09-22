@@ -8,5 +8,6 @@
 #include "CodeTest_Const.h"
 
 int main() {
+	// Constant Test Code
 	A2Tec_Tztv_Const::testCode();
 }
