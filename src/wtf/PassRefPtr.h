@@ -23,7 +23,6 @@
 
 /*#include <wtf/Assertions.h>*/
 #include <wtf/Compiler.h>
-#include <wtf/NullPtr.h>
 
 #if 1 /*defined(COMPILER_GCC)*/
 #define ALLOW_UNUSED __attribute__((unused))
